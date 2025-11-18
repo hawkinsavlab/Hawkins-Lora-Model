@@ -1,0 +1,33 @@
+# 🚲 Hawkins, Indiana - Architecture & Atmosphere LoRA
+
+![Model Version](https://img.shields.io/badge/version-v1.0-red) ![Base Model](https://img.shields.io/badge/HD-1.5-blue) ![Subject](https://img.shields.io/badge/Subject-Stranger%20Things-black)
+
+## 📄 Project Description
+This is a **Multi-Concept LoRA** trained on Stable Diffusion 1.5, designed to capture the iconic 1980s aesthetic and specific landmarks of the fictional town of **Hawkins, Indiana**.
+
+The model is trained to recognize specific locations (like the Mall or the Lab) as well as the general atmospheric style of the *Stranger Things* universe, including the "Upside Down."
+
+## 🗝️ Trigger Words & Concepts
+This model uses a **Master Trigger** combined with **Sub-Triggers** to summon specific locations.
+
+| Location / Concept | Trigger Word | Description |
+| :--- | :--- | :--- |
+| **General Vibe** | `hawkins_indiana` | The main trigger. Use this for streets, houses, and the general 80s mood. |
+| **Starcourt Mall** | `starcourt_mall` | The neon-soaked, multi-level shopping mall (Season 3 aesthetic). |
+| **Hawkins Lab** | `hawkins_lab` | The brutalist, concrete government building (exterior). |
+| **Palace Arcade** | `palace_arcade` | The vintage gaming arcade with neon signage. |
+| **The Upside Down** | `upsidedown` | Adds dark blue/red lighting, floating spores, and vines. |
+
+---
+
+## 🔧 How to Use
+
+1.  **Download** the `.safetensors` file.
+2.  **Place** it in your `models/Lora` directory.
+3.  **Prompting:** Use the trigger word `hawkins_indiana` + the specific location trigger you want.
+
+### 🎨 Example Prompts
+
+**1. Starcourt Mall (Neon Style)**
+```text
+hawkins_indiana, starcourt_mall, wide angle interior shot of a busy 1980s shopping mall, bright neon signs, checkered floor, crowd of teenagers, cinematic lighting, 4k, <lora:Hawkins_Indiana_v1:0.8>
