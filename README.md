@@ -12,11 +12,11 @@ This model uses a **Master Trigger** combined with **Sub-Triggers** to summon sp
 
 | Location / Concept | Trigger Word | Description |
 | :--- | :--- | :--- |
-| **General Vibe** | `hawkins_indiana` | The main trigger. Use this for streets, houses, and the general 80s mood. |
-| **Starcourt Mall** | `starcourt_mall` | The neon-soaked, multi-level shopping mall (Season 3 aesthetic). |
-| **Hawkins Lab** | `hawkins_lab` | The brutalist, concrete government building (exterior). |
-| **Palace Arcade** | `palace_arcade` | The vintage gaming arcade with neon signage. |
-| **The Upside Down** | `upsidedown` | Adds dark blue/red lighting, floating spores, and vines. |
+| **General Vibe** | `Hawkins Indiana` | The main trigger. Use this for streets, houses, and the general 80s mood. |
+| **Starcourt Mall** | `Starcourt Mall` | The neon-soaked, multi-level shopping mall (Season 3 aesthetic). |
+| **Hawkins Lab** | `Hawkins Lab` | The brutalist, concrete government building (exterior). |
+| **Downtown Hawkins** | `Downtown Hawkins` | The Heart Of hawkiks (Exterior) |
+| **The Upside Down** | `The Upside down` | Adds dark blue/red lighting, floating spores, and vines. |
 
 ---
 
@@ -30,4 +30,4 @@ This model uses a **Master Trigger** combined with **Sub-Triggers** to summon sp
 
 **1. Starcourt Mall (Neon Style)**
 ```text
-hawkins_indiana, starcourt_mall, wide angle interior shot of a busy 1980s shopping mall, bright neon signs, checkered floor, crowd of teenagers, cinematic lighting, 4k, <lora:Hawkins_Indiana_v1:0.8>
+hawkins indiana, starcourt mall, wide angle interior shot of a busy 1980s shopping mall, bright neon signs, checkered floor, crowd of teenagers, cinematic lighting, 4k, <lora:Hawkins_Indiana_v1:0.8>
