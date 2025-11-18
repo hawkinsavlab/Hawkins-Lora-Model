@@ -1,9 +1,9 @@
 # 🚲 Hawkins, Indiana - Architecture & Atmosphere LoRA
 
-![Model Version](https://img.shields.io/badge/version-v1.0-red) ![Base Model](https://img.shields.io/badge/HD-1.5-blue) ![Subject](https://img.shields.io/badge/Subject-Hawkins-black)
+![Model Version](https://img.shields.io/badge/version-v1.0-red) ![Base Model](https://img.shields.io/badge/Stable-Diffusion-2.1-blue) ![Subject](https://img.shields.io/badge/Subject-Hawkins-black)
 
 ## 📄 Project Description
-This is a **Multi-Concept LoRA** trained on Stable Diffusion 1.5, designed to capture the iconic 1980s aesthetic and specific landmarks of the fictional town of **Hawkins, Indiana**.
+This is a **Multi-Concept LoRA** trained on Stable Diffusion 2.1, designed to capture the iconic 1980s aesthetic and specific landmarks of the fictional town of **Hawkins, Indiana**.
 
 The model is trained to recognize specific locations (like the Mall or the Lab) as well as the general atmospheric style of the *Stranger Things* universe, including the "Upside Down."
 
